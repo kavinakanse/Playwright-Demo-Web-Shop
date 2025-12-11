@@ -1,0 +1,24 @@
+[
+    {
+        "firstName" : "soni",
+        "lastName" : "sharma",
+        "email" : "soni0198@gmail.com",
+        "password" : "soni1234",
+        "confirmPassword" : "soni1234",
+        "company": "microsoft",
+        "country": "6",
+        "city":"Vienna",
+        "address": "Vienna Street",
+        "zipCode": "400123",
+        "phoneNo": "9876543235",
+        "cardType": "Visa",
+        "cardName": "Sam Sharma",
+        "cardNumber": "4485564059489345",
+        "expireMonth": "07",
+        "expireYear": "2036",
+        "cvv": "123",
+        "pONumber": "1234567"
+
+    }
+    
+]

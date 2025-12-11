@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "register": "npx playwright test --grep @register",
+    "login": "npx playwright test --grep @login",
+    "addToCart": "npx playwright test --grep @addtocart",
+    "checkout": "npx playwright test --grep @checkout"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
