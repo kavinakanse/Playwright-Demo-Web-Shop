@@ -1,10 +1,10 @@
 [
     {
-        "firstName" : "soni",
+        "firstName" : "rani",
         "lastName" : "sharma",
-        "email" : "soni0198@gmail.com",
-        "password" : "soni1234",
-        "confirmPassword" : "soni1234",
+        "email" : "rani0198@gmail.com",
+        "password" : "rani1234",
+        "confirmPassword" : "rani1234",
         "company": "microsoft",
         "country": "6",
         "city":"Vienna",
